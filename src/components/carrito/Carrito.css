@@ -1,0 +1,13 @@
+.carrito{
+    background-color: red;
+    width:300px;
+    position: absolute;
+    top: 20px;
+    left: 70%;
+}
+.red {
+    color: #fb9e61;
+  }
+  .green{
+    color: #61fb8f;
+  }
